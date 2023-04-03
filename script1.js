@@ -1,5 +1,6 @@
-function foo() {
-  console.log('foo')
+function sum(a, b = 0) {
+  console.log(a + b)
 }
 
-foo()
+sum(3)
+sum(3, 5)
