@@ -11,3 +11,5 @@ sum(3, 5)
 
 sub(3)
 sub(3, 5)
+
+// javascript sum and sub
